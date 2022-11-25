@@ -1,0 +1,65 @@
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    padding-bottom: 100px;
+    width: 100%;
+    height: 100%;
+  
+  }
+
+
+
+.call-img {
+    width: 250px;
+    height: 350px;
+    border: 1px solid black;
+    margin: 5px 0px 0px 20px;
+    text-align: center;
+    padding: 15px 15px 0;
+    outline: rgb(255, 222, 160) solid 2px;
+  }
+.call {
+    width: 70px;
+    height: 70px;
+    margin: 5px 0px 0px 20px;
+    text-align: center;
+    padding: 15px 15px 0;
+  }
+  
+  .nous-contacter {
+    font-family: monospace;
+    font-style: italic;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 20px;
+    margin: 30px;
+    /* text-shadow: 1px 1px 9px rgb(231, 87, 35); */
+  }
+  
+ 
+  
+  P {
+    font-style: initial;
+    font-family: Courier;
+    word-spacing: 0.1em;
+    line-height: 1em;
+  }
+  
+  .contact-us {
+    background-color: white(67, 67, 67);
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+    border: solid 0.5px black;
+    padding: 10px;
+    color: black;
+    margin: 10px;
+  }
+  
+  h4,
+  h5 {
+    color: rgb(231, 87, 35);
+    text-transform: uppercase;
+  }
